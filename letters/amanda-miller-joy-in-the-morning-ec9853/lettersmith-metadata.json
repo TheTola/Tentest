@@ -1,0 +1,49 @@
+{
+  "schema_version": 3,
+  "source_version": 3,
+  "project_id": "32de6ea4-321a-4029-866a-17b1e7ac2ac2",
+  "project_schema_version": 2,
+  "recipient_id": "041e37fd-6cb4-4097-919d-ee8d88e2e6f7",
+  "recipient_display_name": "Amanda Miller",
+  "recipient_normalized_key": "amanda miller",
+  "recipient_name": "Amanda Miller",
+  "recipient_title": "Joy in the Morning",
+  "build_timestamp": "2026-08-02T10:21:02.513088+00:00",
+  "published_page_url": "",
+  "settings": {
+    "starting_volume": 19,
+    "music_volume": 19,
+    "curtain_style": "average_color",
+    "message_overlay_preset": "paper",
+    "message_overlay_opacity": 68,
+    "required_features": [],
+    "forge_preview_mode": "window"
+  },
+  "editable_assets": {
+    "pages": {
+      "cover.png": "gallery/pages/cover.png",
+      "letter.png": "gallery/pages/letter.png",
+      "wall.png": "gallery/pages/wall.png",
+      "back.png": "gallery/pages/back.png"
+    },
+    "message": "gallery/message/message.html",
+    "sound_manifest": "gallery/sounds/lettersmith-sound.json"
+  },
+  "sound": {
+    "mode": "playlist",
+    "playlist_order": [
+      "It Is Well With My Soul Audrey Assad",
+      "I Am a Poor Wayfaring Stranger",
+      "AMAZING GRACE Viola",
+      "Clair Obscur Expedition 33"
+    ],
+    "track_count": 4,
+    "crossfade_ms": 1000
+  },
+  "readiness": {
+    "percentage": 89,
+    "status": "Ready — Missing Optional Features"
+  },
+  "cover_thumbnail_path": "gallery/pages/cover.png",
+  "last_activity_at": "2026-08-02T10:21:02.516464+00:00"
+}
